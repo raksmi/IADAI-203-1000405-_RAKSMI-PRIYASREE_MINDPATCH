@@ -1,20 +1,34 @@
+
 MindPatch
+
 Find your balance. Grow at your own pace.
+
 MindPatch is an AI-assisted digital detox and wellness planner concept designed to help students build a more intentional relationship with technology. It brings together mood awareness, screen-time reflection, personalised break suggestions, gratitude journaling and positive habit tracking in one calm, supportive experience.
+
 Project type: CRS Artificial Intelligence – Summative Assessment
+
 Course: Critical and Creative Thinking
+
 Student: M Raksmi Priyasree
+
 Candidate registration number: 1000405
+
 School: Jain Vidyalaya IB World School
 
 1. Project Overview
 Digital devices are an important part of students’ academic, social and personal lives. However, frequent phone checking and extended screen use can interrupt concentration, affect daily routines and make it harder to take intentional breaks.
 
 MindPatch explores how a user-centred digital wellness app could help students recognise their habits and make small, manageable changes. Rather than demanding that users stop using technology, the concept encourages balanced and mindful use.
+
+
 Problem statement
 Students may spend substantial time on their devices, check their phones during study or work, and find it difficult to maintain consistent digital breaks. They need a simple, non-judgemental way to understand their habits and develop healthier routines.
+
+
 Proposed solution
 MindPatch combines self-reflection and habit-building features with a proposed AI-assisted recommendation system. The app uses information voluntarily entered by the user to suggest practical wellness actions suited to their mood, screen-time patterns and routine.
+
+
 Design goals
 - Encourage awareness of personal screen-time habits.
 - Make mood check-ins quick and approachable.
@@ -25,6 +39,7 @@ Design goals
 
 
 2. Core Features
+
 Feature	Description
 Mood Logging	Allows users to record a simple daily mood check-in and reflect on how they are feeling.
 Screen-Time Input Dashboard	Allows users to enter screen-time information and review their usage patterns.
@@ -36,6 +51,8 @@ Habit Tracker with Rewards	Helps users track small wellness goals and recognise 
 These features are designed to work together: users reflect on their mood, review their screen use, receive optional suggestions, record positive experiences and track habits over time.
 
 3. Research and User Insights
+
+
 Primary research
 A questionnaire was distributed using Google Forms to understand respondents’ digital habits and their interest in digital wellness support. The supplied response export contained 14 responses.
 
@@ -63,6 +80,7 @@ Interest in a wellness app	Most respondents selected Probably or Definitely; one
 
 
 What the findings suggest
+
 The responses indicate that frequent phone checking and screen-time awareness are relevant concerns among this respondent group. These findings supported the decision to include a screen-time dashboard, mood check-ins and optional break recommendations.
 Research limitations
 The questionnaire had 14 responses and used self-reported information. It represents a small convenience sample, not all students. The findings are descriptive and should not be interpreted as proof of a wider population trend or as clinical evidence.
